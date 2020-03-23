@@ -1,9 +1,8 @@
 # James L. Romero III
-# Student ID: 2271041
 # Email: jaromero@chapman.edu
 # CPSC 408
 #Professor: Rene German
-# Assignment 2
+
 
 import sqlite3 as sq
 from Student import Student
